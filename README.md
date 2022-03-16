@@ -1,4 +1,4 @@
-# TESTE-Parte-1---Criacao-de-Script
+# TESTE-Parte-1-Criacao-de-Script
 
 Para rodar o projeto:
 
